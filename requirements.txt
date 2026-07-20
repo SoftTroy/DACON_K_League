@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+torch
+tqdm
+tabpfn
+tabpfn-extensions[hpo]
+kditransform
+pyarrow
